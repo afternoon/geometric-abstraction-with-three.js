@@ -25,9 +25,8 @@ Here's the original:
 
 ![Sophie Taeuber-Arp's Cercles et barres](https://s3-us-west-2.amazonaws.com/stuff.aftnn.org/wongatech-hack-day-jan-2016/sophie-taeuber-arp-cercles-et-barres.jpg)
 
-It's composed of an set of non-overlapping circles of
-reducing size and a couple of line elements, some at right angles, some arranged
-into fans.
+It's composed of a set of non-overlapping circles of reducing size and a couple
+of line elements, some at right angles, some arranged into fans.
 
 And here's a screenshot of my program:
 
