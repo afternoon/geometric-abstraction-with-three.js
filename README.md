@@ -31,3 +31,6 @@ of line elements, some at right angles, some arranged into fans.
 And here's a screenshot of my program:
 
 ![My attempt at Cercles et barres](https://s3-us-west-2.amazonaws.com/stuff.aftnn.org/wongatech-hack-day-jan-2016/hack-day-2016-cercles-et-barres.png)
+
+See [the code running
+here](http://afternoon.github.io/geometric-abstraction-with-three.js/).
